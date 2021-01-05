@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Visualization on Ankit Dhall</title>
+    <link>https://ankit-dhall.github.io/portfolio/tags/data-visualization/</link>
+    <description>Recent content in Data Visualization on Ankit Dhall</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://ankit-dhall.github.io/portfolio/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analysis of Canadian Children&#39;s Retail Market</title>
+      <link>https://ankit-dhall.github.io/portfolio/projects/project-3/</link>
+      <pubDate>Wed, 12 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://ankit-dhall.github.io/portfolio/projects/project-3/</guid>
+      <description>This project analyzes the Canadian census dataset for 2016 published by Statistics Canada and aims to understand the children&amp;rsquo;s retail market in order to help set up new store locations.
+This analysis would help businesses understand it&amp;rsquo;s potential consumers, population distribution, purchase powers, and potential opportunities while setting up retail stores or rolling out new products to market.
+In general, this particular analysis looks at different components of the Canadian census statistics to answer a few main business objectives:</description>
+    </item>
+    
+    <item>
+      <title>Toronto Bike Share Ridership Analysis</title>
+      <link>https://ankit-dhall.github.io/portfolio/projects/project-4/</link>
+      <pubDate>Wed, 12 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://ankit-dhall.github.io/portfolio/projects/project-4/</guid>
+      <description>This project analyzes and visualizes trip data of the Toronto Bike Share program in order to understand usage patterns and statitsics. Toronto Bike Share program caters to thousands of riders that make use of the bike rental service set up across multiple stations in and around the city of Toronto.
+This analysis would potentially help the business understand it&amp;rsquo;s riders, usage patterns, user types, and potential pain points and use this information for the purposes of demand modelling to optimize costs and increase revenue and help improve customer experience.</description>
+    </item>
+    
+  </channel>
+</rss>
