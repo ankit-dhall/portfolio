@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PySpark on Ankit Dhall</title>
+    <link>https://ankit-dhall.github.io/portfolio/tags/pyspark/</link>
+    <description>Recent content in PySpark on Ankit Dhall</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jan 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://ankit-dhall.github.io/portfolio/tags/pyspark/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Organization and Indexing using PySpark</title>
+      <link>https://ankit-dhall.github.io/portfolio/projects/project-6/</link>
+      <pubDate>Sun, 03 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ankit-dhall.github.io/portfolio/projects/project-6/</guid>
+      <description>This project aims to implement a search engine using PySpark on Hadoop.
+It portrays the use of PySpark to organize and index an entire dataset using TF-IDF and perform a search given a query.
+This particular project utilizes Spark RDD&amp;rsquo;s as well as specialized Spark functions that can be leveraged to perform high-performance distributed computing.
+Link to GitHub Repository
+  </description>
+    </item>
+    
+  </channel>
+</rss>

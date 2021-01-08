@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Ankit Dhall</title>
+    <link>https://ankit-dhall.github.io/portfolio/tags/development/</link>
+    <description>Recent content in Development on Ankit Dhall</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Feb 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://ankit-dhall.github.io/portfolio/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Similarity Search using Permutation Based Indexing</title>
+      <link>https://ankit-dhall.github.io/portfolio/projects/project-5/</link>
+      <pubDate>Thu, 20 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://ankit-dhall.github.io/portfolio/projects/project-5/</guid>
+      <description>This project aims to implement a distributed architecture using python to implement similarity search on a given dataset.
+Such an implementation can prove extremely useful in a variety of applications including finding similarities between genome sequences and retrieveing relevant information based on a given query.
+This particular implementation works on a dataset containing Accident Information in the UK and can help businesses to search for relevant accident records based on a search criteria.</description>
+    </item>
+    
+  </channel>
+</rss>
