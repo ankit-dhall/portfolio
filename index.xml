@@ -6,7 +6,42 @@
     <description>Recent content in Data Science &amp; Analytics Portfolio on Ankit Dhall</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jan 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://ankit-dhall.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Jan 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://ankit-dhall.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thermal Demand Modelling</title>
+      <link>https://ankit-dhall.github.io/portfolio/projects/project-9/</link>
+      <pubDate>Tue, 12 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ankit-dhall.github.io/portfolio/projects/project-9/</guid>
+      <description>This research aims at applying a novel idea of utilizing an ANN (Artificial Neural Network) black-box model to predict the space heating demand of households in Toronto, Ontario, Canada.
+This research was conducted as a continuation of an ongoing study at the Ryerson Centre for Sustainable Energy Systems (CSES).
+Being able to model and predict the space heating needs of a household can help reduce energy consumption, and in turn, reduce the total greenhouse gas emissions from households.</description>
+    </item>
+    
+    <item>
+      <title>Time-Series Demand Forecasting</title>
+      <link>https://ankit-dhall.github.io/portfolio/projects/project-8/</link>
+      <pubDate>Fri, 08 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ankit-dhall.github.io/portfolio/projects/project-8/</guid>
+      <description>This project aims to implement a time-series forecasting model, aimed at understanding future market demand and DSLAM usage including equipment failure rates.
+This analysis would help the business by understanding the growth trend, DSLAM failure rate, and future demand. This information can then be leveraged to reduce overhead costs by setting up the right DSLAM capacity for a region and conducting the required maintenance to increase total capacity.
+Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Pinterest Image Tagging</title>
+      <link>https://ankit-dhall.github.io/portfolio/projects/project-7/</link>
+      <pubDate>Wed, 06 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ankit-dhall.github.io/portfolio/projects/project-7/</guid>
+      <description>This project aims to implement an image classification model using transfer learning, aimed at providing users on Pinterest with category suggestions for any images they might upload.
+This implementation would help users identify and categorize their images more effectively and efficiently, thus improving user experience and engagement on the platform.
+The project also implements LIME analysis in order to help explain and understand model predictions.
+Link to GitHub Repository
+  </description>
+    </item>
+    
     <item>
       <title>Data Organization and Indexing using PySpark</title>
       <link>https://ankit-dhall.github.io/portfolio/projects/project-6/</link>

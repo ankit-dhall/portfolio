@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time-Series on Ankit Dhall</title>
+    <link>https://ankit-dhall.github.io/portfolio/tags/time-series/</link>
+    <description>Recent content in Time-Series on Ankit Dhall</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Jan 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://ankit-dhall.github.io/portfolio/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Time-Series Demand Forecasting</title>
+      <link>https://ankit-dhall.github.io/portfolio/projects/project-8/</link>
+      <pubDate>Fri, 08 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ankit-dhall.github.io/portfolio/projects/project-8/</guid>
+      <description>This project aims to implement a time-series forecasting model, aimed at understanding future market demand and DSLAM usage including equipment failure rates.
+This analysis would help the business by understanding the growth trend, DSLAM failure rate, and future demand. This information can then be leveraged to reduce overhead costs by setting up the right DSLAM capacity for a region and conducting the required maintenance to increase total capacity.
+Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>

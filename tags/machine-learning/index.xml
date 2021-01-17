@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Ankit Dhall</title>
+    <link>https://ankit-dhall.github.io/portfolio/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Ankit Dhall</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jan 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://ankit-dhall.github.io/portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thermal Demand Modelling</title>
+      <link>https://ankit-dhall.github.io/portfolio/projects/project-9/</link>
+      <pubDate>Tue, 12 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ankit-dhall.github.io/portfolio/projects/project-9/</guid>
+      <description>This research aims at applying a novel idea of utilizing an ANN (Artificial Neural Network) black-box model to predict the space heating demand of households in Toronto, Ontario, Canada.
+This research was conducted as a continuation of an ongoing study at the Ryerson Centre for Sustainable Energy Systems (CSES).
+Being able to model and predict the space heating needs of a household can help reduce energy consumption, and in turn, reduce the total greenhouse gas emissions from households.</description>
+    </item>
+    
+  </channel>
+</rss>

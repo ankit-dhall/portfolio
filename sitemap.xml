@@ -3,6 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ankit-dhall.github.io/portfolio/tags/data-science/</loc>
+    <lastmod>2021-01-12T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ankit-dhall.github.io/portfolio/</loc>
+    <lastmod>2021-01-12T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ankit-dhall.github.io/portfolio/tags/deep-learning/</loc>
+    <lastmod>2021-01-12T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ankit-dhall.github.io/portfolio/tags/machine-learning/</loc>
+    <lastmod>2021-01-12T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ankit-dhall.github.io/portfolio/tags/python/</loc>
+    <lastmod>2021-01-12T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ankit-dhall.github.io/portfolio/tags/</loc>
+    <lastmod>2021-01-12T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ankit-dhall.github.io/portfolio/projects/project-9/</loc>
+    <lastmod>2021-01-12T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ankit-dhall.github.io/portfolio/tags/time-series/</loc>
+    <lastmod>2021-01-08T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ankit-dhall.github.io/portfolio/projects/project-8/</loc>
+    <lastmod>2021-01-08T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ankit-dhall.github.io/portfolio/projects/project-7/</loc>
+    <lastmod>2021-01-06T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://ankit-dhall.github.io/portfolio/projects/project-6/</loc>
     <lastmod>2021-01-03T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -10,35 +80,7 @@
   </url>
   
   <url>
-    <loc>https://ankit-dhall.github.io/portfolio/tags/data-science/</loc>
-    <lastmod>2021-01-03T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ankit-dhall.github.io/portfolio/</loc>
-    <lastmod>2021-01-03T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://ankit-dhall.github.io/portfolio/tags/pyspark/</loc>
-    <lastmod>2021-01-03T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ankit-dhall.github.io/portfolio/tags/python/</loc>
-    <lastmod>2021-01-03T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ankit-dhall.github.io/portfolio/tags/</loc>
     <lastmod>2021-01-03T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

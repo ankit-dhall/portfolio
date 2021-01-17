@@ -6,13 +6,49 @@
     <description>Recent content in Tags on Ankit Dhall</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jan 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://ankit-dhall.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Jan 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://ankit-dhall.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Science</title>
       <link>https://ankit-dhall.github.io/portfolio/tags/data-science/</link>
-      <pubDate>Sun, 03 Jan 2021 10:58:08 -0400</pubDate>
+      <pubDate>Tue, 12 Jan 2021 10:58:08 -0400</pubDate>
       
       <guid>https://ankit-dhall.github.io/portfolio/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://ankit-dhall.github.io/portfolio/tags/deep-learning/</link>
+      <pubDate>Tue, 12 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ankit-dhall.github.io/portfolio/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://ankit-dhall.github.io/portfolio/tags/machine-learning/</link>
+      <pubDate>Tue, 12 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ankit-dhall.github.io/portfolio/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://ankit-dhall.github.io/portfolio/tags/python/</link>
+      <pubDate>Tue, 12 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ankit-dhall.github.io/portfolio/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-Series</title>
+      <link>https://ankit-dhall.github.io/portfolio/tags/time-series/</link>
+      <pubDate>Fri, 08 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ankit-dhall.github.io/portfolio/tags/time-series/</guid>
       <description></description>
     </item>
     
@@ -22,15 +58,6 @@
       <pubDate>Sun, 03 Jan 2021 10:58:08 -0400</pubDate>
       
       <guid>https://ankit-dhall.github.io/portfolio/tags/pyspark/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://ankit-dhall.github.io/portfolio/tags/python/</link>
-      <pubDate>Sun, 03 Jan 2021 10:58:08 -0400</pubDate>
-      
-      <guid>https://ankit-dhall.github.io/portfolio/tags/python/</guid>
       <description></description>
     </item>
     
